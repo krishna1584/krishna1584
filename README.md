@@ -1,3 +1,4 @@
+[![GitHub views](https://komarev.com/ghpvc/?username=YAKSHIT-22&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/krishna1?tab=followers)
 # 💫 About Me:
 - 🌱 I’m currently learning **C and C++ Programming Languages**<br><br>- 👨‍💻 All of my projects are available at [www.linkedin.com/in/krishna-yadav20](www.linkedin.com/in/krishna-yadav20)<br><br>- 💬 Ask me about **Frontend development and DSA**<br><br>- 📫 How to reach me **abhi19ay@gmail.com**<br><br>- ⚡ Fun fact **I create memes**
 
