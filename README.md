@@ -1,4 +1,4 @@
-[![GitHub views](https://komarev.com/ghpvc/?username=YAKSHIT-22&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/krishna1?tab=followers)
+[![GitHub views](https://komarev.com/ghpvc/?username=YAKSHIT-22&label=Profile%20views&color=0e75b6&08style=flat)](https://github.com/krishna1?tab=followers)
 <h1 align="center">
         <samp>&gt; Greetings and thank you for stopping by!<br> Myself
                 <b><a target="_blank" href="">Krishna Yadav!</a></b>
