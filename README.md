@@ -5,8 +5,15 @@
         </samp>
 </h1>
 # 💫 About Me:
-- 🌱 Proficient in *C/C++* , *SQL* , *Git* , *JavaScript* , *React.js* , *MongoDB* , *Linux*<br><br>- 👨‍💻 All of my projects are available at [www.linkedin.com/in/krishna-yadav20](www.linkedin.com/in/krishna-yadav20)<br><br>- 💬 Ask me about **Frontend development and DSA**<br><br>- 📫 How to reach me **abhi19ay@gmail.com**<br><br>- ⚡ Fun fact **I create memes**
-                          
+
+-  <img alt="GIF" src="https://github.com/challgua/challgua/blob/main/images/dev.gif" width="25" /> &nbsp; Proficient in *C/C++* , *SQL* , *Git* , *JavaScript* , *React.js* , *MongoDB* , *Linux*. <img width="15%" align="right" alt="Github Image" src="https://github.com/challgua/challgua/blob/main/images/github.gif?raw=true" /><br>
+- <img src="https://github.com/challgua/challgua/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **New projects, or anything about coding**. <br>
+- <img src="https://github.com/challgua/challgua/blob/main/images/music.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; **Learning** while you sleep. <br>
+- <img src="https://github.com/challgua/challgua/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Fun fact **I create memes**. <br>
+
+
+
+<img src="https://github.com/challgua/challgua/blob/main/images/coding.gif?raw=true" href="https://github.com/challgua" alt="Hello world" width="625"/> <br>
 
 ## 🌐 Socials:
 <p align="left">
