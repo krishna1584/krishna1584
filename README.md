@@ -6,10 +6,10 @@
 </h1>
 # 💫 About Me:
 
--  <img alt="GIF" src="https://github.com/challgua/challgua/blob/main/images/dev.gif" width="25" /> &nbsp; Proficient in *C/C++* , *SQL* , *Git* , *JavaScript* , *React.js* , *MongoDB* , *Linux*. <img width="15%" align="right" alt="Github Image" src="https://github.com/challgua/challgua/blob/main/images/github.gif?raw=true" /><br>
-- <img src="https://github.com/challgua/challgua/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **New projects, or anything about coding**. <br>
-- <img src="https://github.com/challgua/challgua/blob/main/images/music.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; **Learning** while you sleep. <br>
-- <img src="https://github.com/challgua/challgua/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Fun fact **I create memes**. <br>
+-  <img alt="GIF" src="https://github.com/krishna1584/krishna1584/blob/main/images/dev.gif?raw=true" width="25" /> &nbsp; Proficient in *C/C++* , *SQL* , *Git* , *JavaScript* , *React.js* , *MongoDB* , *Linux*. <img width="15%" align="right" alt="Github Image" src="https://github.com/challgua/challgua/blob/main/images/github.gif?raw=true" /><br>
+- <img src="https://github.com/krishna1584/krishna1584/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **New projects, or anything about coding**. <br>
+- <img src="https://github.com/krishna1584/krishna1584/blob/main/images/music.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; **Learning** while you sleep. <br>
+- <img src="https://github.com/krishna1584/krishna1584/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Fun fact **I create memes**. <br>
 
 
 
