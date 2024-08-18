@@ -1,10 +1,9 @@
 [![GitHub views](https://komarev.com/ghpvc/?username=YAKSHIT-22&label=Profile%20views&color=0e75b6&08style=flat)](https://github.com/krishna1?tab=followers)
+
 <h1 align="center">
-
-$${\color{orange}Greetings \space \color{orange}and \space \color{orange}Thank \space \color{orange}you \space \color{orange}for \space \color{orange}Stopping \space \color{orange}by!}$$
-
-<samp>Myself <b><a target="_blank" href="">Krishna Yadav!</a></b></samp>
-
+        <samp>&gt; Greetings and Thank you for stopping by!<br> Myself
+                <b><a target="_blank" href="">Krishna!</a></b>
+        </samp>
 </h1>
 
 
@@ -12,7 +11,7 @@ $${\color{orange}Greetings \space \color{orange}and \space \color{orange}Thank \
 
 <h3>
 
--  <img alt="GIF" src="https://github.com/krishna1584/krishna1584/blob/main/images/dev.gif?raw=true" width="40" /> &nbsp; Proficient in *C/C++* , *SQL* , *Git* , *JavaScript* , *React.js* , *MongoDB* , *Linux*. <img width="30%" align="right" alt="Github Image" src="https://github.com/krishna1584/krishna1584/blob/main/images/github.gif?raw=true" /><br>
+-  <img alt="GIF" src="https://github.com/krishna1584/krishna1584/blob/main/images/dev.gif?raw=true" width="40" /> &nbsp; Proficient in *C/C++* , *SQL* , *Git* , *JavaScript* , *React.js* , *MongoDB* , *Linux*. <img width="20%" align="right" alt="Github Image" src="https://github.com/krishna1584/krishna1584/blob/main/images/github.gif?raw=true" /><br>
 - <img src="https://github.com/krishna1584/krishna1584/blob/main/images/message.gif?raw=true" width="40" />&nbsp;&nbsp; Ask me about **New projects, or anything about coding**. <br>
 - <img src="https://github.com/krishna1584/krishna1584/blob/main/images/music.gif?raw=true" width="40" />&nbsp;&nbsp;&nbsp; **Learning** while you sleep. <br>
 - <img src="https://github.com/krishna1584/krishna1584/blob/main/images/meme.gif?raw=true" width="40" />&nbsp;&nbsp;&nbsp; Fun fact **I create memes**. <br>
